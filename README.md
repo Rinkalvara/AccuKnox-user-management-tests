@@ -32,4 +32,5 @@ npx playwright show-report
 Playwright Version: 1.47.0
 
 Rinkal Vara
-GitHub Profile
+
+GitHub rinkalvara
